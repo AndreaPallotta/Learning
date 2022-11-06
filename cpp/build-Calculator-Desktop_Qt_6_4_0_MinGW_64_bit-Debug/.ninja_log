@@ -1,0 +1,21 @@
+# ninja log v5
+1	858	6881783508437434	Calculator_autogen/timestamp	8062f8310c31744a
+1	858	6881783508437434	Calculator_autogen/mocs_compilation.cpp	8062f8310c31744a
+1	858	6881783508437434	C:/Users/andre/OneDrive/Desktop/Learning/cpp/build-Calculator-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Calculator_autogen/timestamp	8062f8310c31744a
+1	858	6881783508437434	C:/Users/andre/OneDrive/Desktop/Learning/cpp/build-Calculator-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	8062f8310c31744a
+864	2438	6881783525797459	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.obj	c420f3b21006a247
+862	2444	6881783525857434	CMakeFiles/Calculator.dir/main.cpp.obj	b4072072e7d29553
+859	2686	6881783528287451	CMakeFiles/Calculator.dir/calculator.cpp.obj	65fb8039caac363c
+2687	2893	6881783530325424	Calculator.exe	378dc4d8a26ded6f
+5	253	6886305822146495	Calculator_autogen/timestamp	8062f8310c31744a
+5	253	6886305822146495	Calculator_autogen/mocs_compilation.cpp	8062f8310c31744a
+5	253	6886305822146495	C:/Users/andre/OneDrive/Desktop/Learning/cpp/build-Calculator-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Calculator_autogen/timestamp	8062f8310c31744a
+5	253	6886305822146495	C:/Users/andre/OneDrive/Desktop/Learning/cpp/build-Calculator-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	8062f8310c31744a
+265	2452	6886305844135600	CMakeFiles/Calculator.dir/calculator.cpp.obj	65fb8039caac363c
+2452	2917	6886305848753883	Calculator.exe	378dc4d8a26ded6f
+9	233	6886306362245879	Calculator_autogen/timestamp	8062f8310c31744a
+9	233	6886306362245879	Calculator_autogen/mocs_compilation.cpp	8062f8310c31744a
+9	233	6886306362245879	C:/Users/andre/OneDrive/Desktop/Learning/cpp/build-Calculator-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Calculator_autogen/timestamp	8062f8310c31744a
+9	233	6886306362245879	C:/Users/andre/OneDrive/Desktop/Learning/cpp/build-Calculator-Desktop_Qt_6_4_0_MinGW_64_bit-Debug/Calculator_autogen/mocs_compilation.cpp	8062f8310c31744a
+246	2263	6886306382535878	CMakeFiles/Calculator.dir/calculator.cpp.obj	65fb8039caac363c
+2263	2465	6886306384515879	Calculator.exe	378dc4d8a26ded6f
